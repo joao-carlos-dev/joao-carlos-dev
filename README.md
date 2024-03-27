@@ -1,10 +1,10 @@
 <p align="center">Olá jovens 👋 Formado em Licenciatura em Física, pelo Instituto Federal de Santa Catarina,campus Araranguá, atuando como professor por 6 anos. Nesta ano (2023), resolve trocar de área, e depois de algumas pesquisas vi que área do T.I tem grandes oportunidades. Em seguida, foi a busca de um curso nesta área, para compreender melhor os conceitos envolvidos, depois de alguns dias, achei a Escola Britânica de Artes Criativas & Tecnologia (EBAC). Desde então estou fazendo o curso do TI do Zero ao Pro, que mostra desde o inicio até o avançado.</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
+<div  align="center" style="margin-bottom:100px padding-bottom:16px">
  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=joao-carlos-dev/&theme=radical&mode=weekly" />
 </div>
 
-<div align="center" style="padding-top:16px">
+<div align="center">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-carlos-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-carlos-dev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
