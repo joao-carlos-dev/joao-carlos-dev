@@ -1,5 +1,8 @@
-<p align="center">Olá jovens 👋 Formado em Licenciatura em Física, pelo Instituto Federal de Santa Catarina,campus Araranguá, atuando como professor por 6 anos. Nesta ano (2023), resolve trocar de área, e depois de algumas pesquisas vi que área do T.I tem grandes oportunidades. Em seguida, foi a busca de um curso nesta área, para compreender melhor os conceitos envolvidos, depois de alguns dias, achei a Escola Britânica de Artes Criativas & Tecnologia (EBAC). Desde então estou fazendo o curso do TI do Zero ao Pro, que mostra desde o inicio até o avançado.</p>&nbsp;
-
+<p align="center">A maioria da minha experiência profissional foi em sala de aula, ministrando aulas de Física e Química. Participei de projetos como, Olimpíada de Matemática, Olimpíada de Astronomia e astronáutica, feira de Ciências e entre outros. 
+Mas, durante este ano (2023) notei que a relação com o meio escolar estava ficando muito difícil, e me afetando, tanto em sala de aula quanto fora dela, notei que não estava sendo produtivo em sala de aula, e poderia estar prejudicando os alunos, por isso decidi pedir desligamento da escola que atuava. 
+Fazendo algumas pesquisas e conversando com pessoas próximas, decidir ir para área de programação, é algo que vi em alguns momentos da minha experiencia como professor. Depois de passo, foi a hora de ir atrás de algum curso que poderia me colocar nesse ramo.
+Depois de algumas pesquisas resolvi entra na EBAC, o curso, do TI do Zero ao pro, este curso expõe desde o zero, desde a lógica de programação até mostrando as áreas que podemos atuar, Front-End, Back-End e entre outras, esta etapa já conclui.
+E atualmente estou cursando o curso Desenvolvedor Full Stack Python, estou na parte de Front-End na Escola Britânica de Artes Criativas & Tecnologia (EBAC).</p>&nbsp;
 <div  align="center" style="margin-bottom:100px">
  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=joao-carlos-dev/&theme=radical&mode=weekly" />
 </div>
