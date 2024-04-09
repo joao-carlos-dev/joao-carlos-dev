@@ -1,8 +1,6 @@
-<p align="center">A maioria da minha experiência profissional foi em sala de aula, ministrando aulas de Física e Química. Participei de projetos como, Olimpíada de Matemática, Olimpíada de Astronomia e astronáutica, feira de Ciências e entre outros. 
-Mas, durante este ano (2023) notei que a relação com o meio escolar estava ficando muito difícil, e me afetando, tanto em sala de aula quanto fora dela, notei que não estava sendo produtivo em sala de aula, e poderia estar prejudicando os alunos, por isso decidi pedir desligamento da escola que atuava. 
-Fazendo algumas pesquisas e conversando com pessoas próximas, decidir ir para área de programação, é algo que vi em alguns momentos da minha experiencia como professor. Depois de passo, foi a hora de ir atrás de algum curso que poderia me colocar nesse ramo.
-Depois de algumas pesquisas resolvi entra na EBAC, o curso, do TI do Zero ao pro, este curso expõe desde o zero, desde a lógica de programação até mostrando as áreas que podemos atuar, Front-End, Back-End e entre outras, esta etapa já conclui.
-E atualmente estou cursando o curso Desenvolvedor Full Stack Python, estou na parte de Front-End na Escola Britânica de Artes Criativas & Tecnologia (EBAC).</p>&nbsp;
+<p align="center">Olá jovens 👋 Sou João Carlos Borges, licenciado em Física, pelo Instituto Federal de Santa Catarina, do câmpus Araranguá e lecionei durante 6 anos. Em 2023 resolvi me arriscar e trocar de ramo profissional e foi então que, após muitas pesquisas, percebi que a área do T.I poderia me proporcionar grandes oportunidades e desafios.
+A partir de então, fui em busca de um curso nesta área, para que eu pudesse compreender melhor os conceitos envolvidos. Após dias à procura, encontrei a “Escola Britânica de Artes Criativas & Tecnologia (EBAC)”, onde conclui o curso “TI do Zero ao Pro”.
+Atualmente estou estudando para me tornar um “Desenvolvedor Full Stack Python”, e momento estou nos módulos relacionados ao Front End...</p>&nbsp;
 <div  align="center" style="margin-bottom:100px">
  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=joao-carlos-dev/&theme=radical&mode=weekly" />
 </div>
