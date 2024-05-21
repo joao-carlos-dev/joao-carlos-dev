@@ -2,7 +2,7 @@
 A partir de então, fui em busca de um curso nesta área, para que eu pudesse compreender melhor os conceitos envolvidos. Após dias à procura, encontrei a “Escola Britânica de Artes Criativas & Tecnologia (EBAC)”, onde conclui o curso “TI do Zero ao Pro”.
 Atualmente estou estudando para me tornar um “Desenvolvedor Full Stack Python”, e momento estou nos módulos relacionados ao Front End...</p>&nbsp;
 <div  align="center" style="margin-bottom:100px">
-    <img width=55% src="https://github-readme-streak-stats.herokuapp.com?user=joao-carlos-dev/&theme=radical&mode=weekly" />
+    <img width=55% src="https://github-readme-streak-stats.herokuapp.com?username=joao-carlos-dev/&theme=radical&mode=weekly" />
 </div>
 
 <div align="center" >
