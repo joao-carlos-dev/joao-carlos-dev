@@ -1,6 +1,6 @@
 <p align="center">Olá jovens 👋 Sou João Carlos Borges, licenciado em Física, pelo Instituto Federal de Santa Catarina, do câmpus Araranguá e lecionei durante 6 anos. Em 2023 resolvi me arriscar e trocar de ramo profissional e foi então que, após muitas pesquisas, percebi que a área do T.I poderia me proporcionar grandes oportunidades e desafios.
 A partir de então, fui em busca de um curso nesta área, para que eu pudesse compreender melhor os conceitos envolvidos. Após dias à procura, encontrei a “Escola Britânica de Artes Criativas & Tecnologia (EBAC)”, onde conclui o curso “TI do Zero ao Pro”.
-Atualmente estou estudando para me tornar um “Desenvolvedor Full Stack Python”, e momento estou nos módulos relacionados ao Front End...</p>&nbsp;
+Atualmente estou estudando para me tornar um “Desenvolvedor Full Stack Python”, e momento estou nos módulos relacionados ao Back End...</p>&nbsp;
 <div  align="center" style="margin-bottom:100px">
     <img width=55% src="https://github-readme-streak-stats.herokuapp.com?user=joao-carlos-dev/&theme=radical&mode=weekly" />
 </div>
